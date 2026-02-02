@@ -1,0 +1,8 @@
+{
+    "type": "craft",
+    "location": "crafting_table",
+    "recipe": [
+        {"name": "sugar_cane", "count": 3}
+    ],
+    "count": 3
+}

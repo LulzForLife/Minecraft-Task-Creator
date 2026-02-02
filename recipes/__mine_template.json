@@ -1,0 +1,5 @@
+{
+    "type": "mine",
+    "block": "name_of_block_to_mine",
+    "minimum": "lowest_tool_that_drops_the_block"
+}

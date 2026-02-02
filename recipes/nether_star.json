@@ -1,0 +1,13 @@
+{
+    "type": "drop",
+    "mob": "wither",
+    "recommended": [
+        {"name": "arrow", "count": 64},
+        {"name": "bow", "count": 1},
+        {"name": "diamond_sword", "count": 1},
+        {"name": "diamond_helmet", "count": 1},
+        {"name": "diamond_chestplate", "count": 1},
+        {"name": "diamond_leggings", "count": 1},
+        {"name": "diamond_boots", "count": 1}
+    ]
+}

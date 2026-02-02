@@ -1,0 +1,5 @@
+{
+    "type": "mine",
+    "block": "iron_ore",
+    "minimum": "stone_pickaxe"
+}

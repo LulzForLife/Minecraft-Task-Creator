@@ -1,0 +1,9 @@
+{
+    "type": "craft",
+    "location": "inventory",
+    "recipe": [
+        {"name": "paper", "count": 3},
+        {"name": "leather", "count": 1}
+    ],
+    "count": 1
+}

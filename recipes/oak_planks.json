@@ -1,0 +1,8 @@
+{
+    "type": "craft",
+    "location": "inventory",
+    "recipe": [
+        {"name": "oak_log", "count": 1}
+    ],
+    "count": 4
+}

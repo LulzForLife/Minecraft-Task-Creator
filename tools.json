@@ -1,0 +1,48 @@
+{
+    "pickaxe": [
+        "wooden_pickaxe",
+        "gold_pickaxe",
+        "stone_pickaxe",
+        "copper_pickaxe",
+        "iron_pickaxe",
+        "diamond_pickaxe",
+        "netherite_pickaxe"
+    ],
+    "sword": [
+            "wooden_sword",
+            "gold_sword",
+            "stone_sword",
+            "copper_sword",
+            "iron_sword",
+            "diamond_sword",
+            "netherite_sword"
+    ],
+    "helmet": [
+            "golden_helmet",
+            "copper_helmet",
+            "iron_helmet",
+            "diamond_helmet",
+            "netherite_helmet"
+    ],
+    "chestplate": [
+            "golden_chestplate",
+            "copper_chestplate",
+            "iron_chestplate",
+            "diamond_chestplate",
+            "netherite_chestplate"
+    ],
+    "leggings": [
+            "golden_leggings",
+            "copper_leggings",
+            "iron_leggings",
+            "diamond_leggings",
+            "netherite_leggings"
+    ],
+    "boots": [
+            "golden_boots",
+            "copper_boots",
+            "iron_boots",
+            "diamond_boots",
+            "netherite_boots"
+    ]
+}

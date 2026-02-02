@@ -1,0 +1,10 @@
+{
+    "type": "craft",
+    "location": "crafting_table",
+    "recipe": [
+        {"name": "obsidian", "count": 3},
+        {"name": "glass", "count": 5},
+        {"name": "nether_star", "count": 1}
+    ],
+    "count": 1
+}

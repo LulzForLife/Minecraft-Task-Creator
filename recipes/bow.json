@@ -1,0 +1,11 @@
+{
+    "type": "drop",
+    "mob": "skeleton",
+    "recommended": [
+        {"name": "iron_helmet", "count": 1},
+        {"name": "iron_chestplate", "count": 1},
+        {"name": "iron_leggings", "count": 1},
+        {"name": "iron_boots", "count": 1},
+        {"name": "iron_sword", "count": 1}
+    ]
+}

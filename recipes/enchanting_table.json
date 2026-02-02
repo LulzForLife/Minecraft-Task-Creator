@@ -1,0 +1,10 @@
+{
+    "type": "craft",
+    "location": "crafting_table",
+    "recipe": [
+        {"name": "obsidian", "count": 4},
+        {"name": "diamond", "count": 2},
+        {"name": "book", "count": 1}
+    ],
+    "count": 1
+}

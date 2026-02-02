@@ -1,0 +1,9 @@
+{
+    "type": "craft",
+    "location": "crafting_table",
+    "recipe": [
+        {"name": "iron_ingot", "count": 3},
+        {"name": "stick", "count": 2}
+    ],
+    "count": 1
+}

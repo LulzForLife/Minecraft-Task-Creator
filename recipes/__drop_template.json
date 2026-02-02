@@ -1,0 +1,7 @@
+{
+    "type": "drop",
+    "mob": "name_of_mob_to_kill",
+    "recommended": [
+        {"name": "recommended_items_to_kill", "count": 2}
+    ]
+}
